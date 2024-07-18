@@ -1,1 +1,1 @@
-# powerbi_netflix_dashboard
+# Power BI dashboard: Netflix
